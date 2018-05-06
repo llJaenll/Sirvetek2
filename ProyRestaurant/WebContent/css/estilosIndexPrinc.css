@@ -1,0 +1,95 @@
+/*
+#3C989E
+#5DB5A4
+#F4CDA5
+#F57A82
+#ED5276
+*/
+
+#back{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#logo{
+    height: 60px;
+}
+
+#first-sect{
+    width:100%;
+}
+
+#second-sect{
+    width: 70%;
+    margin-top: 1.5rem;
+    height: 16rem;
+    margin-left: 15%;
+}
+
+#second-sect > h2{
+   float: left;
+   font-size: 2vw;
+   margin-top: 6.5rem;
+   margin-left: 5%;
+}
+
+#second-sect > article{
+    width: 40%;
+    height: 16rem /*300px*/;
+    background-color: red;
+    float:left;
+    margin-left: 5%;
+}
+
+#third-sect{
+    margin-top: 1.5rem;
+    width: 70%;
+}
+
+#oferta{
+    background-color:red;
+    height: 200px;
+    border:1px solid;
+}
+
+footer{
+    margin-top: 1.5rem;
+    width: 100%;
+    min-height: 15rem /*300px*/;
+    background-color: red;
+}
+
+/*RETOQUES BOOTSTRAP*/
+
+#barra{
+    background-color: #3C989E;
+}
+
+.item-nav{
+    margin-left: 2%;
+}
+#enlace-nav {
+    color:white;
+    font-size: 1rem;
+}
+#enlace-nav:hover {
+    transition:0.5s;
+    font-size: 1.5rem;
+}
+
+#buscar{
+    color: white;
+    border: 2px solid;
+    border-color: white;
+}
+
+#buscar:hover{
+    color: #3C989E;
+    background-color: white;
+    transition: 1s;
+}
+
+.fa-align-justify{
+    color:white;
+    font-size: 30px;
+}
