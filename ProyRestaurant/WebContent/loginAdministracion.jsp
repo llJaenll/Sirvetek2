@@ -11,7 +11,7 @@
 	crossorigin="anonymous"> 
 
 <link rel="stylesheet" href="css/estilo.css">
-<title>Insert title here</title>
+<title>Insert title here</title> 
 </head>
 <body>
 	<form action="">
