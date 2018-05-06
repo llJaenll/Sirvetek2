@@ -84,7 +84,7 @@
 					class="carousel-control-next-icon" aria-hidden="true"></span> <span
 					class="sr-only">Next</span>
 				</a>
-			</div>
+			</div> 
 		</section>
 		<!--FIN CARRUSEL - FIRST SECTION-->
 		<!--INICIO CARTA - SECOND SECTION-->
